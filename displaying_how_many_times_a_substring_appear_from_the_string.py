@@ -1,7 +1,7 @@
 
 
-# ----- PSEUDO CODE -----
-# - ACTUAL CODE
+#>>>>>>>>>> PSEUDO CODE <<<<<<<<<<
+#----- ACTUAL CODES -----
 # - Variable
 given_statement = "Emma is good developer. Emma is a writer"
 
